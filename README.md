@@ -1,6 +1,13 @@
 # inventario-service
 Este es el microservicio del inventario de los perfumes.
 
+Integrantes
+
+-Alonso Rivadeneira
+
+-Constanza Rojas
+
+
 # Microservicio de Inventario – Perfulandia SPA
 
 Este microservicio permite gestionar el inventario de perfumes de la tienda Perfulandia. Permite registrar, consultar, actualizar y eliminar perfumes del sistema.
